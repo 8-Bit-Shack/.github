@@ -1,7 +1,11 @@
 # 8-Bit Shack
 8-Bit Shack Software Public GitHub
 
-## The 8-bit Shack is a modern software development group for the Apple ][ family of computers.
+## Website
+https://8bitshack.net
+
+## About Us..
+**The 8-bit Shack is a modern software development group for the Apple ][ family of computers.**
 
 Producing new software as games, demos, tools and enhancements for the Apple ][ platform with an 8-bit experience.
 
